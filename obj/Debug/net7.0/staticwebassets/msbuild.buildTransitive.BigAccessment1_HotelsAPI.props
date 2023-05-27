@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BigAccessment1_HotelsAPI.props" />
+</Project>
