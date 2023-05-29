@@ -1,5 +1,4 @@
 # HotelsAPI
-Hotel Booking System API
 The Hotel Booking System API is a project developed for XYZHotels, a renowned hotel chain operating globally. The API provides a streamlined reservation process and efficient booking experience for customers. It includes CRUD operations, filtering capabilities, count functionality, JWT token authentication, and handles the one-to-many relationship between hotels and rooms.
 
 Features
